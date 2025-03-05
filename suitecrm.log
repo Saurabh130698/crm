@@ -1,0 +1,12 @@
+Sun Mar  2 05:50:18 2025 [24628][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Sun Mar  2 05:50:18 2025 [24628][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Sun Mar  2 05:50:19 2025 [24628][1][FATAL] Email address save error
+Sun Mar  2 05:50:31 2025 [24628][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Sun Mar  2 05:50:31 2025 [24628][1][SECURITY] Setting logger_file_ext to '.log'.
+Sun Mar  2 05:50:31 2025 [24628][1][SECURITY] Setting logger_file_name to ''.
+Sun Mar  2 05:50:31 2025 [24628][1][SECURITY] Log file extension can't be blank.
+Sun Mar  2 05:50:31 2025 [24628][1][SECURITY] Setting logger_file_name to ''.
+Sun Mar  2 05:50:31 2025 [24628][1][SECURITY] Log file extension can't be blank.
+Sun Mar  2 05:50:44 2025 [24628][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Mar  2 05:50:44 2025 [24628][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Sun Mar  2 05:51:22 2025 [24628][1][FATAL] Email address save error
